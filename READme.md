@@ -8,11 +8,12 @@ This repository contains two statistical reports utilizing SPSS and Power BI.
 2. **Data Plotting**: This report indicates visualization of player data from a given year.
 
 Each project is contained within its own .pdf file, along with outputs and explanations of the SPSS visualization.
+### **Note**
+The SPSS reports were written as a part of my bachelor's level statistics course.
 
 ## **Power BI Projects**
 1. **Energy Distribution**: This report indicates the hypothesis of a player scoring a certain amount under the given circumst
 
-### **Note**
-The SPSS reports were written as a part of my bachelor's level statistics course.
+
 
 
