@@ -12,7 +12,7 @@ Each project is contained within its own .pdf file, along with outputs and expla
 The SPSS reports were written as a part of my bachelor's level statistics course.
 
 ## **Power BI Projects**
-1. **Energy Distribution**: This report indicates the hypothesis of a player scoring a certain amount under the given circumst
+1. 
 
 
 
