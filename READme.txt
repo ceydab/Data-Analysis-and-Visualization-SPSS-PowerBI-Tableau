@@ -1,4 +1,4 @@
-# SPSS-Projects
+### SPSS-Projects
 Welcome to the Data Analysis and Visualization repository! 
 
 This repository contains two statistical reports utilizing SPSS and Power BI.
