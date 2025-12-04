@@ -1,4 +1,4 @@
-# Data-Analysis-and-Visualization-SPSS-PowerBI
+# Data-Analysis-and-Visualization-SPSS-PowerBI-Tableau
 Welcome to the Data Analysis and Visualization repository! 
 
 This repository contains two statistical reports utilizing SPSS and Power BI.
@@ -12,7 +12,11 @@ Each project is contained within its own .pdf file, along with outputs and expla
 The SPSS reports were written as a part of my bachelor's level statistics course.
 
 ## **Power BI Projects**
-1. **Energy Consumption PowerBI**: This report is a one-page report of energy consumption information from 11 buildings in the USA. The dataset is accessible at [here](https://github.com/Nikhil-Sawhney/Power-BI/blob/main/Energy%20Consumption%20Dashboard/Energy%20Consumptions%20Dataset.xlsx).
+1. **Energy Consumption PowerBI**: This report is a one-page report of energy consumption information from 11 buildings in the USA. The dataset is accessible [here](https://github.com/Nikhil-Sawhney/Power-BI/blob/main/Energy%20Consumption%20Dashboard/Energy%20Consumptions%20Dataset.xlsx).
+
+
+## **Tableau Projects**
+1. **Netflix Movies & TV Shows**: This is a one-page visual repost of Netflix TV Shows and Movies. The dataset is accessible [here](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
 
 
